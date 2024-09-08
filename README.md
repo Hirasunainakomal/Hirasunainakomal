@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <hr>
 
 <h1>MY PORTFOLIO GIF <br></h1>
-<img align="left" alt="GIF" src = "https://github.com/Hirasunainakomal/H.S-KOMAL/blob/main/portfolio.gif" height="300" width = '600' /><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img align="left" alt="GIF" src = "https://github.com/Hirasunainakomal/Hirasunainakomal/blob/main/portfolio.gif" height="300" width = '600' /><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 <h1> About Me <br></h1>
