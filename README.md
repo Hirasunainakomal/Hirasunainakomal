@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 :computer: :smiley: :computer: 
 </h1>
 <h3>
-  I am Komal Kumari, a recent MCA graduate with a strong foundation 
-              in computer science and a passion for web development. As a fresher in 
-              the field, I have honed my skills in frontend development through various 
-              academic projects and self-driven learning. My technical proficiency includes 
-              HTML, CSS, JavaScript, and modern frameworks such as React.js. I am enthusiastic 
-              about creating user-friendly, responsive, and aesthetically pleasing web interfaces<br>
+ I am Komal Kumari, a recent MCA graduate with a strong foundation in computer science and a passion for full-stack development. I have built and refined my skills through academic projects, self-learning, and a hands-on internship at HulkHire, where I worked on Stripe payment integration using Java and Spring Boot. My technical expertise spans both frontend and backend technologies, including HTML, CSS, JavaScript, React.js, Java, and Spring Boot. I enjoy developing responsive, user-friendly interfaces and integrating robust backend systems to create complete and efficient web applications.
+
+<br>
 
 </h3>
 <hr>
